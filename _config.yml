@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 652df65d6d8ceae17f5d
+gatekeeper_host: https://Bangladesh Public Data Portal.herokuapp.com
 
 # Dataset schema
 schema: default
